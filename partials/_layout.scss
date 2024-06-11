@@ -243,6 +243,12 @@
     }
 }
 
+@media screen and (max-width: 480px) {
+    .footer p {
+        text-align: center;
+    }
+}
+
 // Botao whatsapp
 
 .btn-whatsapp {

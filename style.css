@@ -297,6 +297,11 @@ i {
   color: #d34040;
 }
 
+@media screen and (max-width: 520px) {
+  .footer p { 
+    text-align: center;
+  }
+}
 .btn-whatsapp {
   position: fixed;
   bottom: 14px;
